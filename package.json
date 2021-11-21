@@ -1,5 +1,5 @@
 {
-  "name": "simple-spa-router",
+  "name": "simple-spa-router-ts",
   "version": "1.0.0",
   "description": "Simple SPA router",
   "main": "index.js",

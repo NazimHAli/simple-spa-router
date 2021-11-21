@@ -1,4 +1,4 @@
-# simple-spa-router
+# simple-spa-router-ts
 Basic router written in one class. Useful for small projects/prototyping.
 
 ## Example

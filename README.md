@@ -5,7 +5,7 @@ Basic router written in one class. Useful for small projects/prototyping.
 
 ```javascript
 
-import Router from "router";
+import Router from "simple-spa-router-ts";
 
 const router = new Router({
     mode: "hash",  // hash or history

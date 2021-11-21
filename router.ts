@@ -1,3 +1,8 @@
+/**
+ * Simple router class
+ *
+ * mode: 'hash' or 'history'
+ */
 class Router {
     routes = [];
     mode: string = "hash";

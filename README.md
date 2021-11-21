@@ -1,6 +1,8 @@
 # simple-spa-router-ts
 Basic router written in one class. Useful for small projects/prototyping.
 
+`yarn add simple-spa-router-ts`
+
 ## Example
 
 ```javascript

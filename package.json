@@ -1,0 +1,15 @@
+{
+  "name": "simple-spa-router",
+  "version": "1.0.0",
+  "description": "Simple SPA router",
+  "main": "index.js",
+  "repository": "git@github.com:NazimHAli/simple-spa-router.git",
+  "author": "Nazim Ali",
+  "license": "MIT",
+  "devDependencies": {
+    "esbuild": "^0.13.15"
+  },
+  "scripts": {
+    "build": "esbuild router.ts --minify --target=es2020,chrome96,firefox94,node14 --outfile=router.js"
+  }
+}
